@@ -479,7 +479,3 @@ flowchart TD
 ```
 
 ---
-
-## Support
-
-For questions, issues, or feature requests, please open an issue in this repository. Pull requests for improvements are welcome.
